@@ -1,3 +1,3 @@
 ### Leonardo Farias de Souza Silva
 
-Node.js develop.
+Node.js develop, Go enthusiast.
